@@ -13,8 +13,8 @@ Teknik Informatika
 Saya berharap dapat memahami dasar-dasar pemrograman, meningkatkan kemampuan berpikir logis, dan mampu membuat program sederhana menggunakan bahasa C++.
 
 ## Langkah-langkah
--Mempelajari dasar-dasar pemrograman.
--Berlatih membuat program sederhana.
--Melatih kemampuan memecahkan masalah sederhana.
--Menyimpan hasil latihan ke GitHub.
--Mengembangkan program secara bertahap.
+- Mempelajari dasar-dasar pemrograman.
+- Berlatih membuat program sederhana.
+- Melatih kemampuan memecahkan masalah sederhana.
+- Menyimpan hasil latihan ke GitHub.
+- Mengembangkan program secara bertahap.
